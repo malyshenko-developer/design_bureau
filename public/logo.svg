@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW -->
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="89.9609mm" height="52.0664mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 8714.42 5043.62"
  xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -8,10 +7,10 @@ viewBox="0 0 8714.42 5043.62"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#2B2A29;stroke-width:7.38;stroke-miterlimit:10}
+    .str0 {stroke:#FFFFFF;stroke-width:7.38;stroke-miterlimit:10}
     .fil2 {fill:none;fill-rule:nonzero}
-    .fil0 {fill:#2B2A29}
-    .fil1 {fill:#2B2A29;fill-rule:nonzero}
+    .fil0 {fill:#FFFFFF}
+    .fil1 {fill:#FFFFFF;fill-rule:nonzero}
    ]]>
   </style>
  </defs>
