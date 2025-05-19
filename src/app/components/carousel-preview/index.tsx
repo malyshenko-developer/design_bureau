@@ -17,6 +17,8 @@ import {
 
 import { Button } from "@/components/ui/button";
 
+import { slides } from "./constants";
+
 const CarouselPreview = () => {
   const [api, setApi] = useState<CarouselApi>();
   const [current, setCurrent] = useState(0);
@@ -32,13 +34,6 @@ const CarouselPreview = () => {
       setCurrent(api.selectedScrollSnap() + 1);
     });
   }, [api]);
-
-  const slides = [
-    { image: "/images/candella.jpg", title: "Канделла" },
-    { image: "/images/nekrasovskiy.jpg", title: "Некрасовская" },
-    { image: "/images/recherche.jpg", title: "Посольство красоты" },
-    { image: "/images/visota.jpg", title: "Высота" },
-  ];
 
   return (
     <Carousel
