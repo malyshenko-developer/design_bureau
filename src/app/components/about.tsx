@@ -4,7 +4,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="flex justify-between max-w-[1710px] mx-auto py-20">
+    <div className="flex justify-between py-20">
       <h3 className="text-2xl uppercase">Кто мы?</h3>
 
       <p className="text-6xl max-w-[560px] font-semibold">
@@ -26,7 +26,7 @@ const About = () => {
           можно по телефону +7 (921) 333-46-41 или оставьте заявку на сайте."
           numberOfLine={5}
           showLessLabel="Скрыть"
-          showMoreLabel="Показать полностью"
+          showMoreLabel="Читать полностью"
         />
 
         <Button variant={"outline"} className="self-start uppercase text-lg">
