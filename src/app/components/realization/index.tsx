@@ -28,7 +28,7 @@ const Realization = () => {
       >
         <CarouselContent className="-ml-6">
           {slides.map((slide, index) => (
-            <CarouselItem key={index} className="pl-6 basis-1/3 shadow-lg">
+            <CarouselItem key={index} className="pl-6 basis-1/3">
               <div className="aspect-6/7 relative">
                 <Image
                   src={slide.image}
