@@ -8,7 +8,7 @@ const About = () => {
       <h3 className="text-2xl uppercase w-1/4">Кто мы?</h3>
 
       <div className="flex w-3/4 justify-between">
-        <p className="text-6xl max-w-[560px] font-semibold">
+        <p className="text-6xl max-w-[560px] font-medium">
           Студия дизайна интерьера и ремонта
         </p>
 

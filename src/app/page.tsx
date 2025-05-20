@@ -1,6 +1,7 @@
 import About from "./components/about";
 import CarouselPreview from "./components/carousel-preview";
 import Realization from "./components/realization";
+import StageOfWorks from "./components/stage-of-works";
 
 export default function Main() {
   return (
@@ -11,6 +12,8 @@ export default function Main() {
         <About />
 
         <Realization />
+
+        <StageOfWorks />
       </div>
     </div>
   );

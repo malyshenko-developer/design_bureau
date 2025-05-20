@@ -12,11 +12,11 @@ import { Button } from "@/components/ui/button";
 
 const Realization = () => {
   return (
-    <div className="pb-20 w-full">
+    <div className="pb-20">
       <div className="flex mb-12">
         <h3 className="text-2xl uppercase w-1/4">Реализация</h3>
 
-        <div className="text-6xl font-semibold pb-7 border-b border-b-gray-400 w-3/4">
+        <div className="text-6xl font-medium pb-7 border-b border-b-gray-400 w-3/4">
           <p className="max-w-[850px]">27 завершенных проектов в 2024 году</p>
         </div>
       </div>
